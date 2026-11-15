@@ -30,7 +30,7 @@
 | 저장소 | 내용 |
 |---|---|
 | [hyundai-appchallenge-frontend](https://github.com/hmg-appchallenge/hyundai-appchallenge-frontend) | Pleos Connect(Android Automotive) 앱. Kotlin + Jetpack Compose |
-| hyundai-appchallenge-backend | 노래 생성 서버. 음성 인식, 목소리 구분, 가사·제목(Claude), 반주·노래(ElevenLabs Music) |
+| [hyundai-appchallenge-backend](https://github.com/hmg-appchallenge/hyundai-appchallenge-backend) | 노래 생성 서버. 음성 인식, 목소리 구분, 가사·제목(Claude), 반주·노래(ElevenLabs Music) |
 
 제출용 APK는 프론트엔드 저장소의 [`apk/`](https://github.com/hmg-appchallenge/hyundai-appchallenge-frontend/tree/main/apk) 폴더에 있어요. 설치와 실행 방법은 [README](https://github.com/hmg-appchallenge/hyundai-appchallenge-frontend#실행-방법)를 봐 주세요.
 
